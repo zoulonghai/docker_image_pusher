@@ -1,1 +1,2 @@
 teambraker/braker3:latest
+registry:latest
