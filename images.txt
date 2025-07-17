@@ -1,3 +1,4 @@
+kanghu/hite:3.3.3
 gemygk/mikado:v2.3.5rc2
 teambraker/braker3:latest
 registry:latest
